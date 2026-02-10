@@ -14,7 +14,7 @@ public class Solution {
             }
             
         }
-        return ([1,2]);
+        return null;
     }
 }
         
